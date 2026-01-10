@@ -10,7 +10,6 @@ The resulting instrument integrates synthesis, tuning, rhythm, and visualization
 [Listen](/assets/audio/GaschPrimeSynth_Demo.mp3)
 
 
-
 ## Quickstart
 
 ### Requirements
