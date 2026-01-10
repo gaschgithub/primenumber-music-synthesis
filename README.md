@@ -1,4 +1,4 @@
-## Prime Number–Based Sound Synthesis and Performance
+## Prime Number–Based Sound Synthesis
 
 This project explores the sonification and musicalization of prime numbers through what I call *prime music*. A custom synthesizer was developed in SuperCollider (sclang) to investigate the structure, behavior, and aesthetic potential of prime numbers in sound and music.
 
