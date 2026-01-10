@@ -30,6 +30,11 @@ The resulting instrument integrates synthesis, tuning, rhythm, and visualization
   
 5. Play notes on your MIDI keyboard.
 
+### Implementation note
+
+The entry point of the system is `src/GaschPrimeSynth.scd`, which dynamically loads all functional modules from subfolders within `src/`.
+
+
 ---
 ```md
 Troubleshooting
