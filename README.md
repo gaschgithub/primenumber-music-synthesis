@@ -32,13 +32,13 @@ The resulting instrument integrates synthesis, tuning, rhythm, and visualization
 
 ---
 ```md
-### Troubleshooting
+Troubleshooting
 
-**No sound**
+No sound
 - Make sure a MIDI keyboard is connected and detected.
-- Ensure the **MIDI** block has been executed.
+- Ensure the MIDI block has been executed.
 - Check that the SuperCollider server is running (`s.boot`).
 
-**MIDI not detected**
+MIDI not detected
 - Evaluate `MIDIClient.init;`
 - Verify your device appears in `MIDIClient.sources`.
