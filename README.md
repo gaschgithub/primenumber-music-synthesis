@@ -7,7 +7,8 @@ The system implements **prime spectra** (waveforms built from prime-number harmo
 The resulting instrument integrates synthesis, tuning, rhythm, and visualization into a single **MIDI-compatible performance system**, fully implemented in code without external libraries or samples. It was used as the basis for composing an electronic music work and as an artistic research exploration of numerical abstraction in sound.
 
 ### Audio demo
-[Listen to a short audio example](assets /audio/gasch_prime_synth_demo.wav)
+[Listen to a short audio example](assets/audio/gasch_prime_synth_demo.wav)
+
 
 
 ## Quickstart
