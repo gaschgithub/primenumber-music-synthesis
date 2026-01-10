@@ -11,7 +11,10 @@ Thumbs.db
 GaschPrimeSynth_Recordings/
 *.aif
 *.aiff
+
+# Ignore all wav files EXCEPT curated demos
 *.wav
+!assets/audio/*.wav
 
 # SuperCollider temporary / cache files
 *.scd~
