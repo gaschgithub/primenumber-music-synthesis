@@ -49,6 +49,8 @@ publication, together with an original musical composition applying the prime
 number synthesis and methodology documented here, is scheduled for
 **March 2026**.
 
+**Research snapshot:** `v0.9.0`
+
 ---
 ```md
 Troubleshooting
