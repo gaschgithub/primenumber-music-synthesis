@@ -36,6 +36,18 @@ The resulting instrument integrates synthesis, tuning, rhythm, and visualization
 
 The entry point of the system is `src/GaschPrimeSynth.scd`, which dynamically loads all functional modules from subfolders within `src/`.
 
+---
+
+## Status
+
+This repository is released as a **research snapshot** corresponding to a
+functionally complete version of the Gasch Prime Synth, developed under a
+PAPIME-funded artistic research initiative.
+
+The system is currently in a **pre-publication stage**. A final peer-reviewed
+publication, together with an original musical composition applying the prime
+number synthesis and control methodology documented here, is scheduled for
+**March 2026**.
 
 ---
 ```md
