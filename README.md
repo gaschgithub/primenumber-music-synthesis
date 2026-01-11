@@ -46,7 +46,7 @@ PAPIME-funded artistic research initiative.
 
 The system is currently in a **pre-publication stage**. A final peer-reviewed
 publication, together with an original musical composition applying the prime
-number synthesis and control methodology documented here, is scheduled for
+number synthesis and methodology documented here, is scheduled for
 **March 2026**.
 
 ---
