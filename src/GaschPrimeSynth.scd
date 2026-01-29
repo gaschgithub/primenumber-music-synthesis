@@ -19,8 +19,8 @@ MIDI keyboard required.
 // ------------------------------------------------------
 (
 ~gpsLoad.("primes/complex_primes.scd");
-~gpsLoad.("primes/prime_synthdefs.scd");
 ~gpsLoad.("primes/harmonics_amps.scd");
+~gpsLoad.("primes/prime_synthdefs.scd");
 ~gpsLoad.("primes/prime_tuning.scd");
 )
 
