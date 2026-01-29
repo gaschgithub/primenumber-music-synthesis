@@ -42,7 +42,9 @@ The entry point of the system is `src/GaschPrimeSynth.scd`, which dynamically lo
 
 This repository is released as a **research snapshot** corresponding to a
 functionally complete version of the Gasch Prime Synth, developed under a
-PAPIME-funded artistic research initiative.
+PAPIME-funded artistic research initiative:
+
+**PAPIME 404525 Archivo de prácticas mediales en torno de algoritmias situadas**
 
 The system is currently in a **pre-publication stage**. A final peer-reviewed
 publication, together with an original musical composition applying the prime
