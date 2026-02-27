@@ -23,6 +23,7 @@ The resulting instrument integrates synthesis, tuning, rhythm, and visualization
 3. Boot the audio server:
    ```supercollider
    s.boot;
+   ```
 4. Select MIDI or QWERTY mode, writing \midi or \qwerty (line 29 `src/GaschPrimeSynth.scd`)
 5. Connect your MIDI keyboard (not if QWERTY keyboard)
 6. Execut code block **1) INIT**
