@@ -23,12 +23,11 @@ The resulting instrument integrates synthesis, tuning, rhythm, and visualization
 3. Boot the audio server:
    ```supercollider
    s.boot;
-4. Execute the code blocks in ascending order:
-5. Select MIDI or QWERTY mode, writing \midi or \qwerty (line 29 `src/GaschPrimeSynth.scd`)
-6. Connect your MIDI keyboard (not if QWERTY keyboard)
-8. Execut code block **1) INIT**
-9. 8. Execut code block **2) START**
-5. Play notes on your keyboard.
+4. Select MIDI or QWERTY mode, writing \midi or \qwerty (line 29 `src/GaschPrimeSynth.scd`)
+5. Connect your MIDI keyboard (not if QWERTY keyboard)
+6. Execut code block **1) INIT**
+7. 8. Execut code block **2) START**
+8. Play notes on your keyboard.
 
 ### Implementation note
 
