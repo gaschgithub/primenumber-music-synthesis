@@ -58,3 +58,4 @@ No sound
 MIDI not detected
 - Evaluate `MIDIClient.init;`
 - Verify your device appears in `MIDIClient.sources`.
+```
