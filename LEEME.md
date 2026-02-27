@@ -35,3 +35,36 @@ s.boot;
 6. Ejecutar el bloque de código **1) INIT**.
 7. Ejecutar el bloque de código **2) START**.
 8. Tocar notas en el teclado.
+
+### Nota de implementación
+
+El punto de entrada del sistema es `src/GaschPrimeSynth.scd`, el cual carga dinámicamente todos los módulos funcionales desde subcarpetas dentro de `src/`.
+
+---
+
+## Estado
+
+Este proyecto se publica como una versión funcionalmente completa del Gasch Prime Synth, desarrollada en el marco de una iniciativa de investigación artística financiada por PAPIME:
+
+**PAPIME 404525 Archivo de prácticas mediales en torno de algoritmias situadas**
+
+**Research Snapshot:** `v0.9.0`
+
+---
+
+## Solución de problemas
+
+### No hay sonido
+
+- Asegúrate de que un teclado MIDI esté conectado y sea detectado.
+- Verifica que el bloque MIDI haya sido ejecutado.
+- Comprueba que el servidor de SuperCollider esté en ejecución (`s.boot`).
+
+### MIDI no detectado
+
+Evalúa:
+
+```supercollider
+MIDIClient.init;
+MIDIClient.sources;
+```
